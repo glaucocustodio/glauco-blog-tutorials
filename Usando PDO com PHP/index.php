@@ -46,7 +46,7 @@ include_once 'database.php';
                     Excluir
                 </th>
             </tr>
-            <?php foreach($pdo->query('SELECT * FROM users', PDO::FETCH_ASSOC) as $c): ?>
+            <?php foreach($pdo->query('SELECT * FROM users') as $c): ?>
                 <tr>
                     <td>
                         <?php echo $c['name']; ?>
