@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Verdana;
+}
+
+h1{
+    margin: 0 0 10px 0;
+}
+
+a{
+    text-decoration: none;
+    outline: none;
+}
+
+.message{
+    border:1px dotted #000;
+    padding: 5px;
+    background-color: #EEEEEE;
+    font-weight:bold;
+}
+
+.fixed{
+    position:absolute;
+    bottom: 20px;
+    left:10px;
+}
+
+#facebook-data{
+    background: none repeat scroll 0 0 #F9F9F9;
+    margin-top: 20px;
+    padding: 10px;
+}
