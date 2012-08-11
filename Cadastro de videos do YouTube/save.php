@@ -2,16 +2,17 @@
 // Inclui arquivo de conexão com banco de dados
 include_once 'database.php';
 
-// Verifica se o formulário foi submetido, e se é uma requisão do tipo POST
+// Verifica se o formulário foi submetido e se é uma requisão do tipo POST
 if($_SERVER['REQUEST_METHOD'] == 'POST'){
     // Armazena os dados enviados em uma variável
     $post = $_POST;
     
     // Verifica se o título foi preenchido e se tem pelo menos 5 caracteres
     if(isset($post['title']) && $post['title'] && strlen($post['title']) >= 5){
+        // Filtra o título (remove tags HTML)
         $title = filter_var($post['title']);
         
-        // Verifica se tem endereço do vídeo preenchido
+        // Verifica se o endereço do vídeo foi preenchido
         if(isset($post['url']) && $post['url']){
             // Analisa o endereço do vídeo (parse)
             $subString = parse_url($post['url']);
