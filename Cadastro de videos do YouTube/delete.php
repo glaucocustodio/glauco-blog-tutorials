@@ -6,14 +6,14 @@ include_once 'database.php';
 if($_SERVER['REQUEST_METHOD'] == 'GET'){
     $get = $_GET;
     
-    /* Verifica se veio o id do registro pela URL e se tem um valor definido
+    /* Verifica se veio o id do registro pela url e se tem um valor definido
      * Obs: função base64_decode decodifica uma string, é o inverso de base64_encode usada por segurança
      */
     if(isset($get['id']) && base64_decode($get['id'])){
-        // Executa query responsável por remover o usuário
+        // Executa query responsável por remover o registro
         $delete = $pdo->exec('DELETE FROM videos WHERE id = '. base64_decode($get['id']));
         
-        // Verifica se o usuário foi removido com sucesso
+        // Verifica se o registro foi removido com sucesso
         if($delete){
             // Definimos a mensagem de sucesso
             $_SESSION['message'] = 'Vídeo excluido com sucesso';
