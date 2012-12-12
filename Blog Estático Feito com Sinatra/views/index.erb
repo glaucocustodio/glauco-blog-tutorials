@@ -1,0 +1,9 @@
+<h1>Seja Bem Vindo</h1>
+
+<ul>
+<% @posts.each do |c| %>
+  <li>
+    <a href="/visualizar/<%= c %>"><%= c %></a>
+  </li>
+<% end %>
+</ul>
