@@ -15,12 +15,12 @@ get '/' do
   erb :index
 end
 
-get '/visualizar/:post' do
+get '/visualizar/:post/?' do
   halt 404 unless File.exist?("views/posts/#{params[:post]}.erb")
   erb :"posts/#{params[:post]}"
 end
 
-get '/sobre-o-autor' do
+get '/sobre-o-autor/?' do
   erb :author
 end
 
