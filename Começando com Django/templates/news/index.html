@@ -1,0 +1,8 @@
+<h1>Notícias</h1>
+
+{% for current in news %}
+  <h2>{{current.title}}</h2>
+  <p><strong>{{current.publication_date}}</strong></p>
+  <p>{{current.content}}</p>
+  <br/>
+{% endfor %}

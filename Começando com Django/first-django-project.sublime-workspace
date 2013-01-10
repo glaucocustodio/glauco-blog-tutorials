@@ -1,0 +1,697 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"submit",
+				"submit-button"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ab",
+				"about-us"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ed",
+				"edit_admin_product_path"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"delete",
+				"delete_check"
+			],
+			[
+				"produt",
+				"products"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"prod",
+				"product-view"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"tot",
+				"total-price"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"c",
+				"current"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"total",
+				"total_qty"
+			],
+			[
+				"to",
+				"total_qty"
+			],
+			[
+				"total_",
+				"total_price"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"prou",
+				"produtos"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"p",
+				"product"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "first_django_project/settings.py",
+			"settings":
+			{
+				"buffer_size": 5465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news/admin.py",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix",
+				"name": "from posts.models import Post"
+			}
+		},
+		{
+			"file": "news/models.py",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "first_django_project/urls.py",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/news/index.html",
+			"settings":
+			{
+				"buffer_size": 17,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news/views.py",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"cons",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/glauco/Projects/tcc_iasp/app/views/layouts/application.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/views/layouts/admin.html.erb",
+		"/home/glauco/Projects/tcc_iasp/Gemfile",
+		"/home/glauco/Projects/tcc_iasp/config/application.rb",
+		"/home/glauco/Projects/tcc_iasp/config/environments/development.rb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/application.js",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/default.js",
+		"/home/glauco/Projects/tcc_iasp/app/views/layouts/_admin.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/stylesheets/general.css",
+		"/home/glauco/Projects/tcc_iasp/app/helpers/application_helper.rb",
+		"/home/glauco/Projects/tcc_iasp/app/views/contacts/index.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/stylesheets/admin.css",
+		"/home/glauco/Projects/tcc_iasp/app/assets/stylesheets/web_app_theme.css",
+		"/home/glauco/Projects/tcc_iasp/app/assets/stylesheets/twitter-bootstrap.css",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/products_controller.rb",
+		"/home/glauco/Projects/tcc_iasp/app/views/products/search.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/views/home/index.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/views/products/_list.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/views/admin/products/index.html.erb",
+		"/home/glauco/Projects/tcc_iasp/config/routes.rb",
+		"/home/glauco/Projects/tcc_iasp/app/views/users/login.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/admin/categories_controller.rb",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/admin/products_controller.rb",
+		"/home/glauco/Projects/tcc_iasp/app/views/admin/users/edit.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/users_controller.rb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/cart.js",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/application_controller.rb",
+		"/home/glauco/Projects/tcc_iasp/app/views/products/view.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/views/pages/about_us.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/models/product.rb",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/pages_controller.rb",
+		"/home/glauco/Projects/sinatra_blog/views/layout.erb",
+		"/home/glauco/Projects/sinatra_blog/views/index.erb",
+		"/home/glauco/Projects/sinatra_blog/main.rb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/plugins/jquery.colorbox.js",
+		"/home/glauco/Projects/tcc_iasp/app/assets/stylesheets/plugins/colorbox.css",
+		"/home/glauco/Projects/tcc_iasp/app/views/admin/products/_form.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/views/products/index.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/admin.js",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/home_controller.rb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/plugins/jquery.maskMoney.js",
+		"/home/glauco/Projects/tcc_iasp/app/controllers/cart_controller.rb",
+		"/home/glauco/Projects/tcc_iasp/app/views/cart/index.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/plugins/accounting.js",
+		"/home/glauco/Projects/tcc_iasp/app/assets/javascripts/plugins/jquery.formatCurrency-1.4.0.js",
+		"/home/glauco/Projects/tcc_iasp/app/assets/stylesheets/application.css",
+		"/home/glauco/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/glauco/Projects/tcc_iasp/app/views/cart/add_to_cart_status.html.erb",
+		"/home/glauco/Projects/tcc_iasp/tcc-iasp.sublime-workspace",
+		"/home/glauco/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/glauco/Projects/tcc_iasp/app/views/cart/added-successful-to-cart.html.erb",
+		"/home/glauco/Projects/tcc_iasp/app/views/cart/add_to_cart.html.erb",
+		"/media/ARQUIVOS/Sistemas de Informação - IASP/6° Semestre/Computação Gráfica e Multimídia I/exercicio1/animacao/GRUPO.txt",
+		"/home/glauco/Projects/tcc_iasp/config/boot.rb",
+		"/home/glauco/Projects/tcc_iasp/config/environments/test.rb",
+		"/home/glauco/Projects/tcc_iasp/config/environment.rb",
+		"/home/glauco/Projects/tcc_iasp/lib/rack/firebug_logger.rb",
+		"/home/glauco/Projects/tcc_iasp/lib/firebug_logger/firebug_logger.rb",
+		"/home/glauco/Projects/tcc_iasp/db/migrate/20120925230336_create_products.rb",
+		"/usr/share/applications/sublime.desktop"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".block",
+			"error-messages",
+			"a{",
+			"main-naviga",
+			"flash_message",
+			"int",
+			"admin.js",
+			"a{",
+			"cart",
+			"url(../../images/plugins/colorbox",
+			"url(images",
+			"config",
+			"#nav",
+			"header",
+			"url(imagens/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url(../../images/style/colorbox",
+			"url(../../images/plugins/colorbox",
+			"teste",
+			"url(../images/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "first_django_project/settings.py",
+					"settings":
+					{
+						"buffer_size": 5465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3786,
+								3786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "news/admin.py",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from posts.models import Post",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "news/models.py",
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "first_django_project/urls.py",
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/news/index.html",
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "news/views.py",
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"cart.",
+				"app/assets/javascripts/cart.js"
+			],
+			[
+				"cart.j",
+				"app/assets/javascripts/cart.js"
+			],
+			[
+				"genr",
+				"app/assets/stylesheets/general.css"
+			],
+			[
+				"gen",
+				"app/assets/stylesheets/general.css"
+			],
+			[
+				"productview",
+				"app/views/products/view.html.erb"
+			],
+			[
+				"genera",
+				"app/assets/stylesheets/general.css"
+			],
+			[
+				"produ",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"productin",
+				"app/views/products/index.html.erb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"cart",
+				"app/assets/javascripts/cart.js"
+			],
+			[
+				"aplica.cs",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"produinde",
+				"app/views/products/index.html.erb"
+			],
+			[
+				"genra",
+				"app/assets/stylesheets/general.css"
+			],
+			[
+				"gene",
+				"app/assets/stylesheets/general.css"
+			],
+			[
+				"default.",
+				"app/assets/javascripts/default.js"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"adminprodu",
+				"app/controllers/admin/products_controller.rb"
+			],
+			[
+				"index",
+				"app/views/home/index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true
+}
