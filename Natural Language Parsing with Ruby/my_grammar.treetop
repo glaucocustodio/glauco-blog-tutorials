@@ -1,0 +1,25 @@
+grammar MyGrammar
+  rule root
+    if space number_of_orders space greater_than space value
+  end
+
+  rule if
+    "if"
+  end
+
+  rule number_of_orders
+    "number of orders is"
+  end
+
+  rule space
+    [\s]+
+  end
+
+  rule greater_than
+    "greater than" <GreaterThanOperator>
+  end
+
+  rule value
+    [0-9]+ <Value>
+  end
+end

@@ -1,0 +1,3 @@
+Run:
+
+```ruby parser.rb```
