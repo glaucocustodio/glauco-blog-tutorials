@@ -1,1 +1,1 @@
-A repo to store tutorials from my blog: <a href="blog.glaucocustodio.com">blog.glaucocustodio.com</a>
+A repo to store tutorials from my blog: <a href="http://blog.glaucocustodio.com">blog.glaucocustodio.com</a>
